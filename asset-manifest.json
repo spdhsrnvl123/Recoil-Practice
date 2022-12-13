@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RollingPaper/static/css/main.073c9b0a.css",
+    "main.js": "/RollingPaper/static/js/main.517f8a0b.js",
+    "static/js/787.5bff17d6.chunk.js": "/RollingPaper/static/js/787.5bff17d6.chunk.js",
+    "index.html": "/RollingPaper/index.html",
+    "main.073c9b0a.css.map": "/RollingPaper/static/css/main.073c9b0a.css.map",
+    "main.517f8a0b.js.map": "/RollingPaper/static/js/main.517f8a0b.js.map",
+    "787.5bff17d6.chunk.js.map": "/RollingPaper/static/js/787.5bff17d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.517f8a0b.js"
+  ]
+}
